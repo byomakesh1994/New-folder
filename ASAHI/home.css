@@ -1,0 +1,63 @@
+#section {
+  max-width: 100%;
+}
+p {
+  margin: 30px;
+  padding: 10px;
+}
+#moto {
+  margin: 30px;
+  padding: 10px;
+  color: rgb(45, 45, 105);
+}
+#inline {
+  display: flex;
+  width: auto;
+}
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: auto;
+  margin-top: 30px;
+
+  padding: 10px;
+}
+#dialog {
+  height: 400px;
+  background-color: black;
+  color: white;
+  padding: 35px;
+  margin-top: 20px;
+}
+.div1 {
+  width: 50px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 10px;
+}
+.div2 {
+  width: 100px;
+
+  padding: 5px;
+  background-color: white;
+  border-radius: 10px;
+}
+#navbarSupportedContent {
+  margin-left: auto;
+}
+#image {
+  margin-top: 60px;
+}
+#main {
+  background-color: rgb(197, 194, 194);
+  margin-top: 60px;
+  padding: 20px;
+}
+h3 {
+  text-align: center;
+}
+area {
+  display: flex;
+  justify-content: space-evenly;
+}
