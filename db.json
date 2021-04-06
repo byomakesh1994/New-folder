@@ -1,0 +1,208 @@
+{
+  "banner_section_list": [
+    {
+      "image_path": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/studio_banner/39538/original/0LibLqi_1560508655.jpg",
+      "banner_text": "",
+      "title": ""
+    },
+    {
+      "image_path": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/studio_banner/39538/original/2015_avengers_2_age_of_ultron_1560508794.jpg",
+      "banner_text": "",
+      "title": ""
+    },
+    {
+      "image_path": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/studio_banner/39538/original/avengers-endgame-3203x1872-avengers-4-hd-16872_1560508852.jpg",
+      "banner_text": "",
+      "title": ""
+    },
+    {
+      "image_path": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/studio_banner/39538/original/The-Lord-Of-The-Rings-Banner-1-1_1560509110.jpg",
+      "banner_text": "",
+      "title": ""
+    },
+    {
+      "image_path": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/studio_banner/39538/original/wp3891863_1560509222.jpg",
+      "banner_text": "",
+      "title": ""
+    },
+    {
+      "image_path": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/studio_banner/39538/original/491326_1560836584.jpg",
+      "banner_text": "",
+      "title": ""
+    },
+    {
+      "image_path": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/studio_banner/39538/original/Hd-Wallpaper-Of-Cartoon-Movies-Brave-Full-Pics-Princess-Merida-Animation-Disney-Computer_1560836641.jpg",
+      "banner_text": "",
+      "title": ""
+    }
+  ],
+
+ 
+  "section_name": [
+    {
+      "title": "Feature Content",
+      "section_id": "8284",
+      "total": "21",
+      "data": [
+        {
+          "id":1,
+          "name": "4K Demo Video",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/448508/standard/universal_1591082794_1591082922.jpg",
+          "story": "",
+          "video_duration": "00:30:03",
+          "genre": [
+            "DOCUMENTARY"
+          ],
+          "release_date": "2020-06-01",
+          "rating": 0
+        },
+        {
+          "id":2,
+          "name": "Star Wars: Episode VII - The Force Awakens (2014 2015)",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/296281/standard/brave-2012-movie-cartoon-background-tablet--1-_1560835124.jpeg",
+          "story": "Merida, an independent archer, disobeys an ancient custom which unleashes a dark force. After meeting an elderly witch, as she journeys to reverse the curse, she discovers the real meaning of bravery.\r\nMerida, an independent archer, disobeys an ancient custom which unleashes a dark force. After meeting an elderly witch, as she journeys to reverse the curse, she discovers the real meaning of bravery.\r\n",
+          "video_duration": "00:27:42",
+          "genre": [
+            "ACTION",
+            "DRAMA",
+            "COMEDY",
+            "DOCUMENTARY",
+            "HORROR",
+            "ROMANCE",
+            "THRILLER",
+            "SCIFI",
+            "FANTASY",
+            "ANIMATED"
+          ],
+          "release_date": "2019-06-18",
+          "rating": 0
+        },
+        {
+          "id":3,
+          "name": "The Frozen",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/296292/standard/1_1560836188.jpg",
+          "story": "Frozen is a 2013 American 3D computer-animated musical fantasy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. The 53rd Disney animated feature film, it is inspired by Hans Christian Andersen's fairy tale \"The Snow Queen\".",
+          "video_duration": "00:02:32",
+          "genre": [
+            "ACTION",
+            "DRAMA",
+            "COMEDY"
+          ],
+          "release_date": "2019-06-04",
+          "rating": "3.5"
+        },
+        {
+          "id":4,
+          "name": "Frozen 2 : Official Trailer 2",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/296303/standard/download--2-_1575450379.jpg",
+          "story": "Elsa the Snow Queen and her sister Anna embark on an adventure far away from the kingdom of Arendelle. They are joined by friends, Kristoff, Olaf, and Sven.",
+          "video_duration": "00:01:53",
+          "genre": [
+            "ACTION",
+            "DRAMA",
+            "COMEDY"
+          ],
+          "release_date": "2019-06-19",
+          "rating": "5.0"
+        },
+        {
+          "id":5,
+          "name": "Ole Ole 2.0",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/369385/standard/ole_1581318988.jpg",
+          "story": "",
+          "video_duration": "",
+          "genre": [
+            "DRAMA",
+            "COMEDY"
+          ],
+          "release_date": "",
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "title": "Live Streaming",
+      "section_id": "26764",
+      "total": "2",
+      "data": [
+        {
+          "name": "Live Stream Feed Content with duration",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/383317/episode/Pubg-Wallpaper-HD_1584617631_1584617712.jpg",
+          "story": "",
+          "video_duration": "",
+          "genre": "",
+          "release_date": "",
+          "rating": 0
+        },
+        {
+          "name": "Cricket Live Streaming ",
+          "poster_url": "https://api.muvi.com/img/no-image.png",
+          "story": "",
+          "video_duration": "",
+          "genre": "",
+          "release_date": "2020-02-03",
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "title": "Latest Music Video",
+      "section_id": "23785",
+      "total": "7",
+      "data": [
+        {
+          "name": "Dus Bahane 2.0",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/370376/standard/Dus-bahane-2.0_1581491972.jpg",
+          "story": "Here We Go Again\r\nAttempting Original\r\nAnd Better Then Earlier\r\n\r\nHere Now ,Here Now\r\nEverybody Put Your Hands Up\r\nIn The Air Now, Air Now\r\nEverybody Put Your Hands Up\r\nIn The Air Now, Air Now\r\n\r\nUski Aakhon Mein Baatein\r\nBaaton Mein Jadoo\r\nSay Here Now, Here Now\r\n\r\nUski Aakhon Mein Baatein\r\nBaaton Mein Jadoo\r\nJadoo Mein Kho Gaye Hum\r\nHo Gaye Bekaabu\r\n\r\nI Looked At You, You Looked At Me\r\nAur Ho Gayi Mushqil\r\nAnd You Became My Destiny\r\nTu Hi Meri Manzil\r\n\r\nDus Bahane, Dus Bahane..\r\n\r\nDus Bahane Karke Le Gaye Dil\r\nLe Gaye Dil\r\n10 Bahane Karke Le Gaye Dil\r\nLe Gaye Dil\r\n\r\nJaane Hua Hai Kya\r\nMain Toh Ho Gayi Laapata\r\nLaapata\r\n\r\nTune Na Jaane Kya Jaadoo Kiya\r\nKya Pata (Like Magic Baby)\r\nKya Pata\r\n\r\nI Looked At You, You Looked At Me\r\nAur Ho Gayi Mushqil\r\nAnd You Became My Destiny\r\nTu Hi Meri Manzil\r\n\r\nDus Bahaane Karke Le Gaye Dil\r\nLe Gaye Dil\r\n10 Bahaane Karke Le Gaye Dil\r\nLe Gaye Dil…\r\n\r\n",
+          "video_duration": "00:02:18",
+          "genre": [
+            "FANTASY"
+          ],
+          "release_date": "2020-02-12",
+          "rating": "5.0"
+        },
+        {
+          "name": "Ghungroo | War",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/363554/standard/Ghungroo---War_1579613008_1579613090.jpg",
+          "story": "With Hrithik Roshan & Vaani Kapoor on the dance floor, sparks will fly and how! Here’s the Ghungroo Song from the film ‘War’.",
+          "video_duration": "00:05:03",
+          "genre": "",
+          "release_date": "2019-09-05",
+          "rating": 0
+        },
+        {
+          "name": "LAGDI LAHORE DI | Street Dancer 3D",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/363503/standard/LAGDI-LAHORE-DI---Street-Dancer-3D_1579602252_1579606435.jpg",
+          "story": "Presenting the video song \"Lagdi Lahore Di\" from the upcoming bollywood movie Street Dancer 3D. This most awaited track \"Lagdi Lahore Di\" is sung by Guru Randhawa, Tulsi Kumar. The lyrics are by Guru Randhawa. \r\n\r\nGulshan Kumar And T-Series Present A T-Series Films Production In Association With Remo D’Souza Entertainment Pvt. Ltd. & Dance Film Company Ltd. Uk, Bhushan Kumar’s Street Dancer 3D. The film is starring Varun Dhawan, Shraddha Kapoor, Nora Fatehi, and Prabhu Deva in lead roles and directed by Remo D'Souza, produced by Bhushan Kumar, Divya Khosla Kumar, Krishan Kumar & Lizelle D’Souza.",
+          "video_duration": "00:02:29",
+          "genre": "",
+          "release_date": "2020-01-14",
+          "rating": 0
+        },
+        {
+          "name": "Illegal Weapon 2.0 - Street Dancer 3D",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/365537/standard/Illegal-Weapon-2.0---Street-Dancer-3D_1580212506_1580212574.jpg",
+          "story": "Presenting the video song \"Illegal Weapon 2.0 \" from the upcoming bollywood movie StreetDancer3D, The movie features Varun Dhawan, Shraddha Kapoor, Nora Fatehi, and Prabhu Deva in lead roles and directed by Remo D'Souza, produced by Bhushan Kumar, Divya Khosla Kumar, Krishan Kumar & Lizelle D’Souza. ",
+          "video_duration": "00:02:27",
+          "genre": [
+            "DRAMA"
+          ],
+          "release_date": "2020-01-04",
+          "rating": 0
+        },
+        {
+          "name": "Malang",
+          "poster_url": "https://d2sal5lpzsf102.cloudfront.net/39538/public/public/system/posters/491596/standard/MAlang_1578307532_1594042676.jpg",
+          "story": "Malang is an upcoming Indian Hindi-language romantic action film directed by Mohit Suri,[2] and jointly produced by Luv Ranjan, Ankur Garg, Bhushan Kumar, Krishan Kumar and Jay Shewakraman. The film stars Aditya Roy Kapur, Disha Patani, Anil Kapoor and Kunal Khemu in lead roles. It marks Suri's second collaboration with Kapur after Aashiqui 2 and Khemu after Kalyug.[3][4] Anil Kapoor is portraying a negative role in the film as a funny cop.[5][6][7]\r\n\r\nFilming began with the first shot taken on 16 March 2019,[8] and the principal photography began on 22 March in Goa.[9] The filming was wrapped up on 7 October 2019[10] and it is scheduled to be released on 7 February 2020.",
+          "video_duration": "00:02:45",
+          "genre": [
+            "DRAMA",
+            "THRILLER"
+          ],
+          "release_date": "2020-02-07",
+          "rating": "2.5"
+        }
+      ]
+    }
+  ]
+}
